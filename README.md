@@ -1,0 +1,2 @@
+Todas as informações sobre os funcionários e sobre em quais obras ele deverão comparecer serão obtida do ERP por meio de API, sendo apenas permitido
+logar no aplicativo quando se tem acesso a internet, garantindo assim que sempre existirá uma boa sincronia entre o Marcando Presença e o ERP da MSI.
